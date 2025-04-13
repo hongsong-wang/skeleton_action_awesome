@@ -16,5 +16,5 @@ This paper addresses occluded and noise-robust skeleton-based action recognition
 # [USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation](https://github.com/wengwanjiang/USDRL/tree/main), AAAI, 2025
 This paper proposes a unified framework for skeleton-based human action understanding, encompassing action recognition, action retrieval, and action detection.
 
-# [Heterogeneous Skeleton-Based Action Representation Learning] (https://cvpr.thecvf.com/virtual/2025/poster/32563), CVPR, 2025
+# [Heterogeneous Skeleton-Based Action Representation Learning](https://cvpr.thecvf.com/virtual/2025/poster/32563), CVPR, 2025
 This paper is the first work that studies unified skeleton-based human action recognition from heterogeneous skeletons.

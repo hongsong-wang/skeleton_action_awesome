@@ -7,6 +7,7 @@ This is the first two-stream framework for modeling human temporal dynamics and 
 
 # [Beyond Joints: Learning Representations From Primitive Geometries for Skeleton-Based Action Recognition and Detection](https://github.com/hongsong-wang/skeleton_action_awesome/blob/main/Beyond_Joints_Learning_Representations_From_Primitive_Geometries_for_Skeleton-Based_Action_Recognition_and_Detection.pdf), TIP, 2018
 This is the first work on multimodal skeleton-based human action recognition. We design three modalities from skeleton data—joints, edge, and surface—and find that a simple late fusion of these three streams can significantly improve performance. The widely adopted three modalities, namely joint, bone, and motion, are derived from our work. The bone modality corresponds to our edge modality, and the implementation of the bone also just uses our released code, available at [https://github.com/hongsong-wang/Beyond-Joints](https://github.com/hongsong-wang/Beyond-Joints). 
+![Three modalities of human skeletons](edge_face.jpg)
 
 # [Learning content and style: Joint action recognition and person identification from human skeletons](https://github.com/hongsong-wang/skeleton_action_awesome/blob/main/Learning%20content%20and%20style%20Joint%20action%20recognition%20and%20person%20identification%20from%20human%20skeletons.pdf), PR, 2018
 This is the first work studies skeleton-based person identification.
@@ -16,6 +17,7 @@ This paper addresses occluded and noise-robust skeleton-based action recognition
 
 # [USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation](https://github.com/wengwanjiang/USDRL/tree/main), AAAI, 2025
 This paper proposes a unified framework for skeleton-based human action understanding, encompassing action recognition, action retrieval, and action detection.
+![unified dense representation learning framework](aaai25.png)
 
 # [Heterogeneous Skeleton-Based Action Representation Learning](https://cvpr.thecvf.com/virtual/2025/poster/32563), CVPR, 2025
 This paper is the first work that studies unified skeleton-based human action recognition from heterogeneous skeletons.

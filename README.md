@@ -14,6 +14,7 @@ This is the first work studies skeleton-based person identification.
 
 # [Occluded Skeleton-Based Human Action Recognition with Dual Inhibition Training](https://github.com/hongsong-wang/skeleton_action_awesome/blob/main/Occluded%20Skeleton-Based%20Human%20Action%20Recognition%20with%20Dual%20Inhibition%20Training.pdf), ACM MM, 2023
 This paper addresses occluded and noise-robust skeleton-based action recognition and presents a novel Dual Inhibition Training strategy.
+![Part-Aware GCN for occluded skeleton-based representation learning](PDGCN.png)
 
 # [USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation](https://github.com/wengwanjiang/USDRL/tree/main), AAAI, 2025
 This paper proposes a unified framework for skeleton-based human action understanding, encompassing action recognition, action retrieval, and action detection.
@@ -21,3 +22,34 @@ This paper proposes a unified framework for skeleton-based human action understa
 
 # [Heterogeneous Skeleton-Based Action Representation Learning](https://cvpr.thecvf.com/virtual/2025/poster/32563), CVPR, 2025
 This paper is the first work that studies unified skeleton-based human action recognition from heterogeneous skeletons.
+
+```
+@inproceedings{wang2017modeling,
+  title={Modeling temporal dynamics and spatial configurations of actions using two-stream recurrent neural networks},
+  author={Wang, Hongsong and Wang, Liang},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={499--508},
+  year={2017}
+}
+
+@article{wang2018beyond,
+  title={Beyond joints: Learning representations from primitive geometries for skeleton-based action recognition and detection},
+  author={Wang, Hongsong and Wang, Liang},
+  journal={IEEE Transactions on Image Processing},
+  volume={27},
+  number={9},
+  pages={4382--4394},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{wang2018learning,
+  title={Learning content and style: Joint action recognition and person identification from human skeletons},
+  author={Wang, Hongsong and Wang, Liang},
+  journal={Pattern Recognition},
+  volume={81},
+  pages={23--35},
+  year={2018},
+  publisher={Elsevier}
+}
+```

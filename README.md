@@ -52,4 +52,28 @@ This paper is the first work that studies unified skeleton-based human action re
   year={2018},
   publisher={Elsevier}
 }
+
+@inproceedings{chen2023occluded,
+  title={Occluded skeleton-based human action recognition with dual inhibition training},
+  author={Chen, Zhenjie and Wang, Hongsong and Gui, Jie},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={2625--2634},
+  year={2023}
+}
+
+@inproceedings{weng2024usdrl,
+  title={USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation},
+  author={Weng, Wanjiang and Wang, Hongsong and Wang, Junbo and He, Lei and Xie, Guosen},
+  booktitle={AAAI Conference on Artificial Intelligence},
+  year={2025}
+}
+
+@inproceedings{wang2025heterogenous,
+  title={Heterogeneous Skeleton-Based Action Representation Learning},
+  author={Wang, Hongsong and Ma, Xiaoyan and Kuang Jidong and Gui, Jie},
+  booktitle={IEEE conference on computer vision and pattern recognition},
+  year={2025}
+}
+
+
 ```

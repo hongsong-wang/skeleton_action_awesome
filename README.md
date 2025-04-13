@@ -1,4 +1,4 @@
-# skeleton_action_awesome
+#  Awesome Skeleton-Based Human Action Recognition/Understanding
 Representive papers of our groups for skeleton-based human action understanding
 
 # [Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks](https://github.com/hongsong-wang/skeleton_action_awesome/blob/main/Modeling%20Temporal%20Dynamics%20and%20Spatial%20Configurations%20of%20Actions%20Using%20Two-Stream%20Recurrent%20Neural%20Networks.pdf), CVPR, 2017

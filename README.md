@@ -63,10 +63,13 @@ If you find these works useful, please cite them:
   year={2023}
 }
 
-@inproceedings{weng2024usdrl,
+@inproceedings{weng2025usdrl,
   title={USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation},
-  author={Weng, Wanjiang and Wang, Hongsong and Wang, Junbo and He, Lei and Xie, Guosen},
-  booktitle={AAAI Conference on Artificial Intelligence},
+  author={Weng, Wanjiang and Wang, Hongsong and Wang, Junbo and He, Lei and Xie, Guo-Sen},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={8},
+  pages={8332--8340},
   year={2025}
 }
 

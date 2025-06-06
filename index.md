@@ -20,7 +20,7 @@ This paper addresses occluded and noise-robust skeleton-based action recognition
 This paper proposes a unified framework for skeleton-based human action understanding, encompassing action recognition, action retrieval, and action detection.
 ![unified dense representation learning framework](images/aaai25.png)
 
-# [Heterogeneous Skeleton-Based Action Representation Learning](https://cvpr.thecvf.com/virtual/2025/poster/32563), CVPR, 2025
+# [Heterogeneous Skeleton-Based Action Representation Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Heterogeneous_Skeleton-Based_Action_Representation_Learning_CVPR_2025_paper.html), CVPR, 2025
 This paper is the first work that studies unified skeleton-based human action recognition from heterogeneous skeletons.
 ![unified heterogeneous skeleton-based action recognition](images/cvpr25.png)
 
@@ -73,12 +73,12 @@ If you find these works useful, please cite them:
   year={2025}
 }
 
-@inproceedings{wang2025heterogenous,
+@inproceedings{wang2025heterogeneous,
   title={Heterogeneous Skeleton-Based Action Representation Learning},
-  author={Wang, Hongsong and Ma, Xiaoyan and Kuang Jidong and Gui, Jie},
-  booktitle={IEEE conference on computer vision and pattern recognition},
+  author={Wang, Hongsong and Ma, Xiaoyan and Kuang, Jidong and Gui, Jie},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={19154--19164},
   year={2025}
 }
-
 
 ```

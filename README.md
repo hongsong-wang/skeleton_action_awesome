@@ -73,12 +73,12 @@ If you find these works useful, please cite them:
   year={2025}
 }
 
-@inproceedings{wang2025heterogenous,
+@inproceedings{wang2025heterogeneous,
   title={Heterogeneous Skeleton-Based Action Representation Learning},
-  author={Wang, Hongsong and Ma, Xiaoyan and Kuang Jidong and Gui, Jie},
-  booktitle={IEEE conference on computer vision and pattern recognition},
+  author={Wang, Hongsong and Ma, Xiaoyan and Kuang, Jidong and Gui, Jie},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={19154--19164},
   year={2025}
 }
-
 
 ```
